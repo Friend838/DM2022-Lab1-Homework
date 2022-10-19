@@ -2,7 +2,7 @@
 Homework 1 for ISA5810 
 
 # Important !!
-If your scikit-learn can't run _".get_feature_names_out"_, please remove _"_out"_ in function name, and vice versa.
+If your scikit-learn can't run _".get_feature_names_out"_, please change to _".get_feature_names"_ , and vice versa.
 
 That's due to the difference of sklearn version.
 
